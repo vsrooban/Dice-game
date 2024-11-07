@@ -1,0 +1,42 @@
+body{
+  background-color: #393E46;
+}
+.container{
+  text-align: center;
+ 
+}
+.player {
+  display: inline-block;
+  font-size: 50px;
+  font-family: 'Lobster', cursive;
+  color: #4ECCA3;
+  
+}
+p{
+  padding-left: 50px;
+}
+h1{
+  display: block;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 7rem;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  color: #4ECCA3;
+ 
+ 
+}
+img{
+  height: 250px;
+  margin-left: 50px;
+}
+
+footer{
+  text-align: center;
+  margin-top: 120px;
+  color: white;
+  font-family: 'Lobster', cursive;
+ 
+
+}
